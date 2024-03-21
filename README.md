@@ -1,2 +1,2 @@
-# Kevin-Bacon
-Six Degrees of Kevin Bacon or Bacon's Law is a parlor game where players challenge each other to arbitrarily choose an actor and then connect them to another actor via a film that both actors have appeared in together, repeating this process to try to find the shortest path that ultimately leads to prolific American actor Kevin Bacon.
+# ai50-projects-2023-x-degrees
+Project 0, Degrees of Kevin Bacon (AI50Harvard)
